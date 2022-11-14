@@ -1,0 +1,41 @@
+.head, .footer{
+
+    height: 100px;
+    color: bisque;
+}
+
+.number{
+    height: 30px; 
+    width: 50px;
+}
+.oper{
+    height: 30px; 
+    width: 50px;
+    background-color: #9bcfcf;
+}
+.ravno{
+    height: 30px; 
+    width: 110px;
+    background-color: #9bcfcf;
+}
+
+.result{
+    width: 212px; 
+    background-color: #9bcfcf;
+}
+
+.select{
+
+    font-weight: 900;
+    text-align:  center;
+}
+.stroka{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
