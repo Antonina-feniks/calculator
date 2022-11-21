@@ -8,6 +8,10 @@
     height: 30px; 
     width: 50px;
 }
+
+.number:hover {
+    background-color: #4d9287;
+  }
 .oper{
     height: 30px; 
     width: 50px;
